@@ -6,7 +6,7 @@ import MainOverView from './components/MainOverView.vue';
 import NewArrival from './components/NewArrival.vue';
 import SlideBar from './components/SlideBar.vue';
 
-console.log("hi");
+console.log("Hello")
 </script>
 
 <style scoped>

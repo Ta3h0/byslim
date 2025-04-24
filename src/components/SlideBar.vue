@@ -5,7 +5,8 @@ import 'swiper/css/pagination'
 import 'swiper/css/navigation'
 import { Pagination, Navigation } from 'swiper/modules'
 import { ref } from 'vue'
-console.log("hi");
+
+console.log("please");
 const { subtitle, title, discountOn, likeOn } = defineProps({
   subtitle: String,
   title: String,
